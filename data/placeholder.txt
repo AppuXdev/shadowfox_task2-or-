@@ -1,0 +1,1 @@
+This folder contains the labeled tweet dataset used for sentiment analysis.
